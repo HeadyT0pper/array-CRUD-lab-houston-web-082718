@@ -6,7 +6,7 @@ def create_an_array
   texas_schools = ["UTA", "UT", "A&M", "TTech"]
 end
 
-def add_element_to_end_of_array(array = [], element = array.push([1]))
+def add_element_to_end_of_array(array = [], element = array.push(1))
   add_element_to_end_of_array
 end
 
